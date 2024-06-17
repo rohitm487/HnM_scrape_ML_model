@@ -1,4 +1,5 @@
-# HnM_scrape_ML_model
+# HnM scraping and Fine tuning a VGG16(CNN) model on scraped data
+
 Scrape a website for images say H and M, Scraping needs to be automated. 
 
 Build a classifier of images for
